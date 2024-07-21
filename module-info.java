@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gaikw
+ *
+ */
+module ProjectWithoutMaven {
+}

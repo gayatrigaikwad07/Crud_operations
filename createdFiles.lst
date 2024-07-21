@@ -1,0 +1,8 @@
+com\flipcart\controller\HelloController.class
+com\flipcart\ProductController\ProductController.class
+com\flipcart\Service\Product_Service.class
+com\flipcart\ServiceImpl\ProductServiceImpl.class
+com\flipcart\FlipcartApplication.class
+com\flipcart\ServletInitializer.class
+com\flipcart\repository\ProductRepository.class
+com\flipcart\Product.class
